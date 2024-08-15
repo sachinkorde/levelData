@@ -1,0 +1,154 @@
+{
+    "blockStates": [
+        {
+            "levelNumber": "Level 1",
+            "checkboxes": [
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false
+            ]
+        },
+        {
+            "levelNumber": "Level 2",
+            "checkboxes": [
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                true, false, true, false, true
+            ]
+        },
+        {
+            "levelNumber": "Level 3",
+            "checkboxes": [
+                true, true, true, true, true,
+                false, false, false, false, false,
+                true, true, true, true, true,
+                false, false, false, false, false,
+                true, true, true, true, true,
+                false, false, false, false, false,
+                true, true, true, true, true,
+                false, false, false, false, false,
+                true, true, true, true, true,
+                false, false, false, false, false
+            ]
+        },
+        {
+            "levelNumber": "Level 4",
+            "checkboxes": [
+                true, false, false, false, true,
+                true, true, false, true, true,
+                true, false, false, false, true,
+                true, true, false, true, true,
+                true, false, false, false, true,
+                true, true, false, true, true,
+                true, false, false, false, true,
+                true, true, false, true, true,
+                true, false, false, false, true,
+                true, true, false, true, true
+            ]
+        },
+        {
+            "levelNumber": "Level 5",
+            "checkboxes": [
+                false, true, true, true, false,
+                false, false, true, false, false,
+                false, true, true, true, false,
+                false, false, true, false, false,
+                false, true, true, true, false,
+                false, false, true, false, false,
+                false, true, true, true, false,
+                false, false, true, false, false,
+                false, true, true, true, false,
+                false, false, true, false, false
+            ]
+        },
+        {
+            "levelNumber": "Level 6",
+            "checkboxes": [
+                true, false, true, false, true,
+                true, false, true, false, true,
+                false, true, false, true, false,
+                false, true, false, true, false,
+                true, true, false, false, true,
+                true, true, false, false, true,
+                false, true, true, true, false,
+                false, true, true, true, false,
+                true, false, false, false, true,
+                true, false, false, false, true
+            ]
+        },
+        {
+            "levelNumber": "Level 7",
+            "checkboxes": [
+                false, true, false, true, false,
+                false, true, false, true, false,
+                true, false, true, false, true,
+                true, false, true, false, true,
+                false, false, true, true, false,
+                false, false, true, true, false,
+                true, true, false, false, true,
+                true, true, false, false, true,
+                false, false, true, true, false,
+                false, false, true, true, false
+            ]
+        },
+        {
+            "levelNumber": "Level 8",
+            "checkboxes": [
+                true, false, true, false, true,
+                true, true, false, true, true,
+                false, true, true, true, false,
+                false, false, true, false, false,
+                true, false, false, false, true,
+                true, true, false, true, true,
+                false, false, true, false, false,
+                false, true, true, true, false,
+                true, true, false, true, true,
+                true, false, true, false, true
+            ]
+        },
+        {
+            "levelNumber": "Level 9",
+            "checkboxes": [
+                false, false, true, true, false,
+                false, false, true, true, false,
+                true, true, false, false, true,
+                true, true, false, false, true,
+                false, true, true, false, false,
+                false, true, true, false, false,
+                true, false, false, true, true,
+                true, false, false, true, true,
+                false, false, true, true, false,
+                false, false, true, true, false
+            ]
+        },
+        {
+            "levelNumber": "Level 10",
+            "checkboxes": [
+                true, true, false, false, true,
+                true, true, false, false, true,
+                false, false, true, true, false,
+                false, false, true, true, false,
+                true, true, false, false, true,
+                true, true, false, false, true,
+                false, false, true, true, false,
+                false, false, true, true, false,
+                true, true, false, false, true,
+                true, true, false, false, true
+            ]
+        }
+    ]
+}
